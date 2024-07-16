@@ -1,6 +1,6 @@
 ##jenkinsfile for commit 
 
-pipeline{
+pipelines{
 
 ##somegroovycode
 }

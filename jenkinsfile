@@ -1,6 +1,10 @@
 ##jenkinsfile for commit 
 
+<<<<<<< HEAD
 pipelines{
+=======
+pipelineTest{
+>>>>>>> fd02b0f (updated jeninsfile)
 
 ##somegroovycode
 }

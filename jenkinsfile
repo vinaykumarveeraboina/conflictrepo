@@ -1,1 +1,7 @@
 ##jenkinsfile for commit 
+
+pipeline{
+
+##somegroovycode
+}
+
